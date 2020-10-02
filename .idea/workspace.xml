@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e479620-af73-4673-9fa2-f12c790f2a12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1i68gs2Rt9UYeAp8iJU1q0aICeW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo18.75_if语句扩展.go">
+    <configuration name="go build 56165.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/56165.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo17_键盘输入.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo17_键盘输入.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo18.5_if语句嵌套.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo18.5_if语句嵌套.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo18.75_if语句扩展.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo18.75_if语句扩展.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo18_标准输入.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo18_标准输入.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo18.75_if语句扩展.go" />
+        <item itemvalue="Go Build.go build demo18.5_if语句嵌套.go" />
+        <item itemvalue="Go Build.go build demo18_标准输入.go" />
+        <item itemvalue="Go Build.go build 56165.go" />
+        <item itemvalue="Go Build.go build demo17_键盘输入.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="306" key="FileChooserDialogImpl" timestamp="1601219588525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601219588525" />
+    <state width="738" height="172" key="GridCell.Tab.0.bottom" timestamp="1601655161098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="738" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
+    <state width="738" height="172" key="GridCell.Tab.0.center" timestamp="1601655161098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="738" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
+    <state width="738" height="172" key="GridCell.Tab.0.left" timestamp="1601655161098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="738" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
+    <state width="738" height="172" key="GridCell.Tab.0.right" timestamp="1601655161098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="738" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
+    <state width="808" height="285" key="GridCell.Tab.1.bottom" timestamp="1601464661203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="808" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601464661203" />
+    <state width="808" height="285" key="GridCell.Tab.1.center" timestamp="1601464661203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="808" height="285" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601464661203" />
+    <state width="808" height="285" key="GridCell.Tab.1.left" timestamp="1601464661203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="808" height="285" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601464661203" />
+    <state width="808" height="285" key="GridCell.Tab.1.right" timestamp="1601464661203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="808" height="285" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601464661203" />
+    <state x="926" y="271" key="SettingsEditor" timestamp="1601343553773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="271" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601343553773" />
+    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1601648638542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601648638542" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/demo2.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/demo5.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/demo3.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
