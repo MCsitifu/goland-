@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e479620-af73-4673-9fa2-f12c790f2a12" name="Default Changelist" comment="" />
+    <list default="true" id="9e479620-af73-4673-9fa2-f12c790f2a12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo18.99_scanln作业.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo19_if语句中的作用域.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20_阻塞式读取.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo21.25_switch的特点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo21.5_switch作业.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo21.65_switch多值写法.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo21_switch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo22_省略switch后的变量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo23.25_switch穿透语法.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo23.5_switch的break语法.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo23.75_break语法练习.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo23_switch初始化语句.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo24_for循环.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +30,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1i68gs2Rt9UYeAp8iJU1q0aICeW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,54 +54,54 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build demo18.75_if语句扩展.go">
-    <configuration name="go build 56165.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build demo23.75_break语法练习.go">
+    <configuration name="go build demo22_省略switch后的变量.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/56165.go" />
+      <filePath value="$PROJECT_DIR$/demo22_省略switch后的变量.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo17_键盘输入.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo23.5_switch的break语法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo17_键盘输入.go" />
+      <filePath value="$PROJECT_DIR$/demo23.5_switch的break语法.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo18.5_if语句嵌套.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo23.75_break语法练习.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo18.5_if语句嵌套.go" />
+      <filePath value="$PROJECT_DIR$/demo23.75_break语法练习.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo18.75_if语句扩展.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo23_switch初始化语句.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo18.75_if语句扩展.go" />
+      <filePath value="$PROJECT_DIR$/demo23_switch初始化语句.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo18_标准输入.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo25_switch穿透语法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo18_标准输入.go" />
+      <filePath value="$PROJECT_DIR$/demo25_switch穿透语法.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build demo18.75_if语句扩展.go" />
-        <item itemvalue="Go Build.go build demo18.5_if语句嵌套.go" />
-        <item itemvalue="Go Build.go build demo18_标准输入.go" />
-        <item itemvalue="Go Build.go build 56165.go" />
-        <item itemvalue="Go Build.go build demo17_键盘输入.go" />
+        <item itemvalue="Go Build.go build demo23.75_break语法练习.go" />
+        <item itemvalue="Go Build.go build demo23.5_switch的break语法.go" />
+        <item itemvalue="Go Build.go build demo25_switch穿透语法.go" />
+        <item itemvalue="Go Build.go build demo23_switch初始化语句.go" />
+        <item itemvalue="Go Build.go build demo22_省略switch后的变量.go" />
       </list>
     </recent_temporary>
   </component>
@@ -94,22 +113,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="859" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601219588525" />
-    <state width="738" height="172" key="GridCell.Tab.0.bottom" timestamp="1601655161098">
+    <state width="738" height="172" key="GridCell.Tab.0.bottom" timestamp="1601821868177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="738" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
-    <state width="738" height="172" key="GridCell.Tab.0.center" timestamp="1601655161098">
+    <state width="738" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601821868177" />
+    <state width="738" height="172" key="GridCell.Tab.0.center" timestamp="1601821868177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="738" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
-    <state width="738" height="172" key="GridCell.Tab.0.left" timestamp="1601655161098">
+    <state width="738" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601821868177" />
+    <state width="738" height="172" key="GridCell.Tab.0.left" timestamp="1601821868177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="738" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
-    <state width="738" height="172" key="GridCell.Tab.0.right" timestamp="1601655161098">
+    <state width="738" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601821868177" />
+    <state width="738" height="172" key="GridCell.Tab.0.right" timestamp="1601821868177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="738" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601655161098" />
+    <state width="738" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601821868177" />
     <state width="808" height="285" key="GridCell.Tab.1.bottom" timestamp="1601464661203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -130,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="926" y="271" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601343553773" />
-    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1601648638542">
+    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1601821753134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601648638542" />
+    <state x="1156" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601821753134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
