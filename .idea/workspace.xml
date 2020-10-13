@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e479620-af73-4673-9fa2-f12c790f2a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo24.25_for循环其他写法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24.5_多层for循环.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24.75_for语法的break语句.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24.9555_break作用在特定的for循环.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24.955_多层for循环的break和continue用法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24.95_break语法练习.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo25.25_作业讲解.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo25_水仙花数练习.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo26_goto语法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo27.25_判断随机值.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo27_随机数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo28.5_数组的定义和初始化.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo28.75_数组的遍历forrange.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo28_数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo29_数组的类型.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo30_数组的比较.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo31_数组的排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo31.5_选择排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo31_数组的排序-冒泡排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo32_二维数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo33_切片的介绍和定义.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo24_for循环.go" beforeDir="false" afterPath="$PROJECT_DIR$/demo24_for循环.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo26_goto语法.go" beforeDir="false" afterPath="$PROJECT_DIR$/demo26_goto语法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo31_数组的排序.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,23 +47,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build demo30_数组的比较.go">
-    <configuration name="go build demo28.5_数组的定义和初始化.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo28.5_数组的定义和初始化.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build demo28.75_数组的遍历.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo28.75_数组的遍历.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build demo33_切片的介绍和定义.go">
     <configuration name="go build demo28.75_数组的遍历forrange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -84,29 +56,45 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo29_数组的类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo31.5_选择排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo29_数组的类型.go" />
+      <filePath value="$PROJECT_DIR$/demo31.5_选择排序.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo30_数组的比较.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo31_数组的排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo30_数组的比较.go" />
+      <filePath value="$PROJECT_DIR$/demo31_数组的排序.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo32_二维数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo32_二维数组.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo33_切片的介绍和定义.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo33_切片的介绍和定义.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build demo30_数组的比较.go" />
-        <item itemvalue="Go Build.go build demo29_数组的类型.go" />
+        <item itemvalue="Go Build.go build demo33_切片的介绍和定义.go" />
+        <item itemvalue="Go Build.go build demo32_二维数组.go" />
         <item itemvalue="Go Build.go build demo28.75_数组的遍历forrange.go" />
-        <item itemvalue="Go Build.go build demo28.75_数组的遍历.go" />
-        <item itemvalue="Go Build.go build demo28.5_数组的定义和初始化.go" />
+        <item itemvalue="Go Build.go build demo31.5_选择排序.go" />
+        <item itemvalue="Go Build.go build demo31_数组的排序.go" />
       </list>
     </recent_temporary>
   </component>
@@ -114,42 +102,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="859" y="306" key="FileChooserDialogImpl" timestamp="1602313881488">
+    <state x="859" y="306" key="FileChooserDialogImpl" timestamp="1602483182132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="859" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602313881488" />
-    <state width="691" height="172" key="GridCell.Tab.0.bottom" timestamp="1602417081434">
+    <state x="859" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602483182132" />
+    <state width="588" height="156" key="GridCell.Tab.0.bottom" timestamp="1602601211753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="691" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602417081434" />
-    <state width="691" height="172" key="GridCell.Tab.0.center" timestamp="1602417081434">
+    <state width="588" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602601211753" />
+    <state width="588" height="156" key="GridCell.Tab.0.center" timestamp="1602601211753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="691" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602417081434" />
-    <state width="691" height="172" key="GridCell.Tab.0.left" timestamp="1602417081434">
+    <state width="588" height="156" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602601211753" />
+    <state width="588" height="156" key="GridCell.Tab.0.left" timestamp="1602601211752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="691" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602417081434" />
-    <state width="691" height="172" key="GridCell.Tab.0.right" timestamp="1602417081434">
+    <state width="588" height="156" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602601211752" />
+    <state width="588" height="156" key="GridCell.Tab.0.right" timestamp="1602601211753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="691" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602417081434" />
-    <state width="795" height="277" key="GridCell.Tab.1.bottom" timestamp="1602414732882">
+    <state width="588" height="156" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602601211753" />
+    <state width="795" height="277" key="GridCell.Tab.1.bottom" timestamp="1602418019135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="795" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602414732882" />
-    <state width="795" height="277" key="GridCell.Tab.1.center" timestamp="1602414732882">
+    <state width="795" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602418019135" />
+    <state width="795" height="277" key="GridCell.Tab.1.center" timestamp="1602418019135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="795" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602414732882" />
-    <state width="795" height="277" key="GridCell.Tab.1.left" timestamp="1602414732882">
+    <state width="795" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602418019135" />
+    <state width="795" height="277" key="GridCell.Tab.1.left" timestamp="1602418019135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="795" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602414732882" />
-    <state width="795" height="277" key="GridCell.Tab.1.right" timestamp="1602414732882">
+    <state width="795" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602418019135" />
+    <state width="795" height="277" key="GridCell.Tab.1.right" timestamp="1602418019135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="795" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602414732882" />
+    <state width="795" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602418019135" />
     <state x="926" y="271" key="SettingsEditor" timestamp="1601343553773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

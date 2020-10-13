@@ -14,6 +14,7 @@ func main() {
 	//	fmt.Println()
 	//}
 
+
 	//goto语法：可以无条件的强制转移到goto语句所指定行进行程序执行
 
 	var a = 10
